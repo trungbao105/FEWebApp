@@ -67,6 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Images\0000896_apple-watch-se-nhom-gps_240.png" />
+    <Content Include="App_Data\Images\0000897_apple-watch-series-3-nhom_240.png" />
+    <Content Include="App_Data\Images\0001025_apple-watch-series-7-nhom-gps_240.png" />
+    <Content Include="App_Data\Images\0008913_apple-watch-ultra-lte-49mm-alpine-loop-size-s_240.png" />
+    <Content Include="App_Data\Images\new.png" />
+    <Content Include="App_Data\Images\nhan-coc.png" />
+    <Content Include="App_Data\Images\san-hang-n.png" />
+    <Content Include="App_Data\Images\xatonkho.png" />
     <Content Include="Global.asax" />
     <Content Include="Home.html" />
     <Content Include="MasterLayout.html" />
@@ -98,7 +106,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
